@@ -10,3 +10,6 @@ local/
 var/
 # Plone
 components/plone/buildout.cfg
+components/plone/.installed.cfg
+components/plone/parts
+
