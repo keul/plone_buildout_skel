@@ -1,6 +1,5 @@
 bin/
 buildout.cfg
-components/*/
 develop-eggs/*
 eggs/
 etc/
@@ -9,4 +8,5 @@ include/
 lib/
 local/
 var/
-rt.commands.cfg
+# Plone
+components/plone/buildout.cfg
