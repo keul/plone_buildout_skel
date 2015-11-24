@@ -13,7 +13,9 @@ var/
 # Plone
 components/plone/buildout.cfg
 components/plone/.installed.cfg
+components/plone/.mr.developer.cfg
 components/plone/parts
+components/plone/develop-eggs
 # Haproxy
 components/haproxy/develop-eggs
 
